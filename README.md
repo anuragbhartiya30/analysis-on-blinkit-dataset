@@ -7,6 +7,7 @@ This project presents an interactive **Power BI dashboard** designed to analyze 
 The dashboard helps track important business metrics such as total orders, customer distribution, product performance, profitability trends, and customer sentiment insights to support **data-driven business decisions**.
 
 The dataset was sourced from a **CSV dataset**, transformed and cleaned using **SQL**, and visualized using Power BI with interactive and dynamic dashboard components.
+Project Duration: January 2026.
 
 ---
 
