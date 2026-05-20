@@ -188,16 +188,17 @@ This section helps evaluate **customer satisfaction levels, service quality perf
 ## 🖥 Dashboard Screenshots
 
 ### Customer Analysis Dashboard
+<img width="721" height="405" alt="570824411-b55e7c74-418f-450d-aa80-2c612dc1834d" src="https://github.com/user-attachments/assets/5bd94e61-9ccc-420a-90b7-19273ce7bf43" />
 
-![Dashboard Preview](screenshots/customer_analysis.png)
 
 ### Product & Sales Dashboard
+<img width="717" height="401" alt="570824483-c9776db0-e966-4884-8099-22009f8f83e2" src="https://github.com/user-attachments/assets/e7e3035a-899e-4e8a-8a36-7d9a98b31fe3" />
 
-![Dashboard Preview](screenshots/product_sales_analysis.png)
 
 ### Customer Feedback Dashboard
+<img width="722" height="402" alt="570824520-cb58950a-6712-480d-a54e-07310d042909" src="https://github.com/user-attachments/assets/53b3842c-8a7a-4ceb-9d2d-c79676a5f9d2" />
+<img width="720" height="404" alt="570824573-761afea1-fb93-40c8-a70d-50005e52f9a8" src="https://github.com/user-attachments/assets/03685a5b-c419-4183-9e04-b1ed11bfb7b4" />
 
-![Dashboard Preview](screenshots/customer_feedback_analysis.png)
 
 ---
 
@@ -211,13 +212,9 @@ Feel free to fork this project and enhance it with additional business insights,
 
 ### Anurag Ashish Bhartiya
 
-**Business Analytics Aspirant | Incoming Master of Business Analytics Candidate at Macquarie University**
+**Business Analytics Aspirant |
 
 - GitHub: anuragbhratiya30  
 - Skills: Power BI, SQL, Excel, DAX, Data Visualization  
 
 ---
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub and sharing your feedback.
