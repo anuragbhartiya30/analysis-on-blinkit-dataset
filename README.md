@@ -8,7 +8,7 @@ The dashboard helps track important business metrics such as total orders, custo
 
 The dataset was sourced from a **CSV dataset**, transformed and cleaned using **SQL**, and visualized using Power BI with interactive and dynamic dashboard components.
 
-Project Duration: January 2026.
+Project Duration: Oct 2025
 
 ---
 
